@@ -14,7 +14,7 @@ Using the master Kickstarter Excel sheet, I created a Pivot Table to compare out
 
 Since we are looking at outcomes over months, a line graph is used to compare the different types of outcomes. 
 
-[Outcomes vs Launch Graph](https://github.com/ajg318/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+[Outcomes vs Launch Graph](main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
