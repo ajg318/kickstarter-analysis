@@ -22,7 +22,7 @@ Along with Launch Date, The size of the goal can potentially play a factor to th
 
 Line graphs were again used to compare the percentages for each bucket, as shown in the graph below.
 
-[Outcome vs Goals Graph](https://github.com/ajg318/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![Outcome vs Goals Graph](https://github.com/ajg318/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
